@@ -75,11 +75,11 @@ cd mern-real-estate-main
 
 2. **Install backend & frontend dependencies:**
 
-      cd backend
-      npm install
+            cd backend
+            npm install
 
-      cd ../frontend
-      npm install
+            cd ../frontend
+            npm install
 
 ### ▶️ Running the App
 
