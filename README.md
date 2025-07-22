@@ -1,8 +1,3 @@
-# README.md
-Here is the complete `README.md` file based on the information you provided, formatted in Markdown:
-
----
-
 # MERN Real Estate Platform
 
 A full-stack real estate web application built with the **MERN** stack (MongoDB, Express.js, React, Node.js). Users can browse, create, update, and manage property listings for sale or rent.
@@ -84,8 +79,8 @@ cd mern-real-estate-main
 ### ▶️ Running the App
 
 1. **Start the backend server:**
-               cd backend
-               npm start
+            cd backend
+            npm start
 
 2. **Start the frontend app:**
             cd ../frontend
