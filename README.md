@@ -84,12 +84,12 @@ cd mern-real-estate-main
 ### ▶️ Running the App
 
 1. **Start the backend server:**
-cd backend
-npm start
+               cd backend
+               npm start
 
 2. **Start the frontend app:**
-cd ../frontend
-npm run dev
+            cd ../frontend
+            npm run dev
 3. **Visit the app:**
 Open your browser and go to:
 👉 [http://localhost:5173](http://localhost:5173)
